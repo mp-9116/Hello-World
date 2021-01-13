@@ -1,2 +1,2 @@
 # hello-world
-This is an application project.
+This is a Git-Hub tutorial practice.
