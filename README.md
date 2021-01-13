@@ -1,3 +1,3 @@
 # hello-world
 This is a Git-Hub tutorial practice.
-Steven Wright said, "The World is a small place.... but I wouldn't want to paint it."
+Steven Wright said, "It's a small world.... but I wouldn't want to paint it."
